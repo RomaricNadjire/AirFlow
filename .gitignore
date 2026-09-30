@@ -1,0 +1,20 @@
+.venv/
+logs/
+**/*.pyc
+**/__pycache__/
+**/*.env
+**/*.log
+**/*.csv
+**/*.db**
+**/*.sqlite3
+**/*.cfg
+**/*.generated
+**/*.save
+!**/.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
